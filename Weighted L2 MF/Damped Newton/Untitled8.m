@@ -1,0 +1,1 @@
+[A,B,states] = amb_mfwmd(U0,V0,X_Noi,W);
